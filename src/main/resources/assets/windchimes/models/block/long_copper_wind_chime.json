@@ -1,0 +1,8 @@
+{
+	"parent": "windchimes:block/long_wind_chime",
+	"textures": {
+		"rod": "minecraft:block/copper_block",
+		"top": "minecraft:block/dark_oak_planks",
+		"string": "minecraft:block/white_wool"
+	}
+}

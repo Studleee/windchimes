@@ -1,0 +1,15 @@
+{
+	"creativeTab.windchimes": "Windchimes",
+	"block.windchimes.bamboo_wind_chime": "Bamboo Wind Chime",
+	"block.windchimes.iron_wind_chime": "Iron Wind Chime",
+	"block.windchimes.copper_wind_chime": "Copper Wind Chime",
+	"block.windchimes.gold_wind_chime": "Gold Wind Chime",
+	"block.windchimes.amethyst_wind_chime": "Amethyst Wind Chime",
+	"block.windchimes.muffled": "Wind chime muffled",
+	"block.windchimes.unmuffled": "Wind chime unmuffled",
+	"block.windchimes.long_bamboo_wind_chime": "Long Bamboo Wind Chime",
+	"block.windchimes.long_iron_wind_chime": "Long Iron Wind Chime",
+	"block.windchimes.long_copper_wind_chime": "Long Copper Wind Chime",
+	"block.windchimes.long_gold_wind_chime": "Long Gold Wind Chime",
+	"block.windchimes.long_amethyst_wind_chime": "Long Amethyst Wind Chime"
+}

@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{
+			"rolls": 1.0,
+			"entries": [
+				{
+					"type": "minecraft:item",
+					"name": "windchimes:long_iron_wind_chime",
+					"conditions": [
+						{
+							"condition": "minecraft:block_state_property",
+							"block": "windchimes:long_iron_wind_chime",
+							"properties": {
+								"half": "upper"
+							}
+						}
+					]
+				}
+			],
+			"conditions": [
+				{
+					"condition": "minecraft:survives_explosion"
+				}
+			]
+		}
+	]
+}

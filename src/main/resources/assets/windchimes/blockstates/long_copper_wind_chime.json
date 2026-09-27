@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"half=upper,muffled=false": { "model": "windchimes:block/long_copper_wind_chime_cap" },
+		"half=upper,muffled=true": { "model": "windchimes:block/long_copper_wind_chime_cap" },
+		"half=lower,muffled=false": { "model": "windchimes:block/long_copper_wind_chime_lower" },
+		"half=lower,muffled=true": { "model": "windchimes:block/long_copper_wind_chime_lower" }
+	}
+}

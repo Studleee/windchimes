@@ -1,0 +1,32 @@
+{
+	"schemaVersion": 1,
+	"id": "windchimes",
+	"version": "${version}",
+	"name": "Windchimes",
+	"description": "Hang wind chimes under your roof. The rods sway and ring in a shared breeze that gusts across the world, busier in storms and up high. Bamboo, iron, copper, gold, and amethyst, each in a short and a deeper two-block-long version.",
+	"authors": [
+		"Jacob"
+	],
+	"contact": {
+		"homepage": "https://github.com/Studleee/windchimes",
+		"sources": "https://github.com/Studleee/windchimes",
+		"issues": "https://github.com/Studleee/windchimes/issues"
+	},
+	"license": "MIT",
+	"icon": "assets/windchimes/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.windchimes.Windchimes"
+		],
+		"client": [
+			"com.windchimes.client.WindchimesClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

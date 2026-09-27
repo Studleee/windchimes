@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"muffled=false": { "model": "windchimes:block/bamboo_wind_chime_cap" },
+		"muffled=true": { "model": "windchimes:block/bamboo_wind_chime_cap" }
+	}
+}

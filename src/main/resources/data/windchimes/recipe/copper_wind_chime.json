@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		" W ",
+		"SSS",
+		"MMM"
+	],
+	"key": {
+		"W": "#minecraft:wooden_slabs",
+		"S": "minecraft:string",
+		"M": "minecraft:copper_nugget"
+	},
+	"result": {
+		"id": "windchimes:copper_wind_chime",
+		"count": 1
+	}
+}

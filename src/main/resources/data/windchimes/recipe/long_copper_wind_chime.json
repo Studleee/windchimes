@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"group": "long_wind_chime",
+	"pattern": [
+		" C ",
+		"MMM"
+	],
+	"key": {
+		"C": "windchimes:copper_wind_chime",
+		"M": "minecraft:copper_nugget"
+	},
+	"result": {
+		"id": "windchimes:long_copper_wind_chime",
+		"count": 1
+	}
+}

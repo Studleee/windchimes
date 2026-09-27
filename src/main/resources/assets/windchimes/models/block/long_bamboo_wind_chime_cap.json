@@ -1,0 +1,7 @@
+{
+	"parent": "windchimes:block/wind_chime_cap",
+	"textures": {
+		"rod": "minecraft:block/bamboo_block",
+		"top": "minecraft:block/bamboo_planks"
+	}
+}

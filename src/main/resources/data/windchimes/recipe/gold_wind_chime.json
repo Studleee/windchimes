@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"pattern": [
+		" W ",
+		"SSS",
+		"MMM"
+	],
+	"key": {
+		"W": "#minecraft:wooden_slabs",
+		"S": "minecraft:string",
+		"M": "minecraft:gold_nugget"
+	},
+	"result": {
+		"id": "windchimes:gold_wind_chime",
+		"count": 1
+	}
+}

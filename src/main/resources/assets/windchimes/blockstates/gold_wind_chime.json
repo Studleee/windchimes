@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"muffled=false": { "model": "windchimes:block/gold_wind_chime_cap" },
+		"muffled=true": { "model": "windchimes:block/gold_wind_chime_cap" }
+	}
+}

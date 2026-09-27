@@ -1,0 +1,7 @@
+{
+	"parent": "windchimes:block/wind_chime_cap",
+	"textures": {
+		"rod": "minecraft:block/gold_block",
+		"top": "minecraft:block/dark_oak_planks"
+	}
+}
